@@ -1,0 +1,10 @@
+jax
+jaxlib
+equinox
+diffrax
+optax
+ipywidgets
+matplotlib
+jupyterlab
+nbconvert
+ipykernel
